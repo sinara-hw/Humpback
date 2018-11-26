@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RRTBHOCK
+DocumentUniqueId=BACFYOIY
 
 [Document8]
 DocumentPath=Supply.SchDoc
@@ -394,6 +394,56 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJUTHQVT
 
+[ProjectVariant1]
+UniqueID=D055EC84-6E5C-4785-B5DB-4490CE370061
+Description=beagle
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=MOD2|UniqueId=\MCSQSXMR\KXTVFDPD|Kind=1|AlternatePart= 
+Variation2=Designator=PCBM1|UniqueId=\HSXBQLDB\WXTTYBKI|Kind=1|AlternatePart= 
+Variation3=Designator=MOD1|UniqueId=\FAKYVNNW\IEPGJLEL|Kind=1|AlternatePart= 
+Variation4=Designator=PCBM2|UniqueId=\DOXOGNKD\WYEMGIWU|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=DDDFBDF8-E079-44A8-9B21-656E54301D30
+Description=STM32
+AllowFabrication=0
+ParameterCount=0
+VariationCount=5
+Variation1=Designator=PCBM2|UniqueId=\DOXOGNKD\WYEMGIWU|Kind=1|AlternatePart= 
+Variation2=Designator=MOD1|UniqueId=\FAKYVNNW\IEPGJLEL|Kind=1|AlternatePart= 
+Variation3=Designator=PCBM1|UniqueId=\HSXBQLDB\WXTTYBKI|Kind=1|AlternatePart= 
+Variation4=Designator=P9|UniqueId=\PJYUGEHE\JPGIYOQJ|Kind=1|AlternatePart= 
+Variation5=Designator=P8|UniqueId=\PJYUGEHE\HAHTKACM|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueID=4C5F9AF3-5624-4172-9260-4033383018F6
+Description=OrangePi
+AllowFabrication=0
+ParameterCount=0
+VariationCount=5
+Variation1=Designator=MOD2|UniqueId=\MCSQSXMR\KXTVFDPD|Kind=1|AlternatePart= 
+Variation2=Designator=P8|UniqueId=\PJYUGEHE\HAHTKACM|Kind=1|AlternatePart= 
+Variation3=Designator=P9|UniqueId=\PJYUGEHE\JPGIYOQJ|Kind=1|AlternatePart= 
+Variation4=Designator=PCBM1|UniqueId=\HSXBQLDB\WXTTYBKI|Kind=0|AlternatePart= 
+Variation5=Designator=PCBM2|UniqueId=\DOXOGNKD\WYEMGIWU|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant4]
+UniqueID=96361864-C1BA-4258-A625-DCF0C6A7AA2F
+Description=Wiznet
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=MOD1|UniqueId=\FAKYVNNW\IEPGJLEL|Kind=1|AlternatePart= 
+Variation2=Designator=P8|UniqueId=\PJYUGEHE\HAHTKACM|Kind=1|AlternatePart= 
+Variation3=Designator=P9|UniqueId=\PJYUGEHE\JPGIYOQJ|Kind=1|AlternatePart= 
+Variation4=Designator=MOD2|UniqueId=\MCSQSXMR\KXTVFDPD|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -558,7 +608,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Brother DCP-J315W Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
