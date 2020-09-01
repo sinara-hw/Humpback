@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Humpback
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -478,6 +478,34 @@ Variation3=Designator=P9|UniqueId=\PJYUGEHE\JPGIYOQJ|Kind=1|AlternatePart=
 Variation4=Designator=MOD2|UniqueId=\MCSQSXMR\KXTVFDPD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Humpback\Panel\ExportIDF\Panel_Humpback.brd
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Humpback\Panel\AutoCAD PCB\Panel_Humpback.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Humpback\Panel\ExportSTEP\Panel_Humpback.step
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Pro4B44.xls
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Pro9C46.xls
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Pro480F.xls
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=C:\Users\gkasp\AppData\Local\Temp\Pro5664.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -531,7 +559,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Humpback
 
 [OutputGroup1]
 Name=Netlist Outputs
